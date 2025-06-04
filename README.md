@@ -12,13 +12,13 @@
 - Version Control (Git and GitHub)
 - Infrastructure as Code (Terraform, CloudFormation)
 - Configuration as Code (Ansible)
-- Containers and orchestrators (Docker, DockerHub, ECR, ECS, EKS, kubernets, AKS, ACS)
-- Passionate about CI/CD and automation (GitHub Actions, pipelines, Azure DevOps, CodePipeline, bash, scripting)
-- Fluent in English, Português and Español
+- Containers and orchestrators (Docker, DockerHub, ECR, ECS, EKS, kubernets, AKS, ACI)
+- Passionate about CI/CD and automation (GitHub Actions, pipelines, Azure DevOps, CodePipeline, CodeBuild, CodeCommit, bash, scripting)
+- Fluent in English, Portuguese and Spanish
 - Monitoring and observability (AWS CloudWatch, X-RAY, Azure Monitor)
-- Multiple cloud services
+- Multiple and a lot of cloud services
 - International customers and teams
-
+- Training expert (I used to be AWS Authorized Instructor and Microsoft Certified Trainer)
 ---
 
 ## 📜 Certifications
@@ -35,7 +35,10 @@
 - Español (Fluent)  
 
 ---
+## Professional experiencie and more
+🚀 Want to explore my key achievements, projects, and more details? Check out my LinkedIn below ⬇️
 
+---
 ## 📫 How to Reach Me
 - Email: alan02n@gmail.com  
 - LinkedIn: [alan-jesus-segundo-nava](https://www.linkedin.com/in/alan-jesus-segundo-nava/)  
