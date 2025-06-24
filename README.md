@@ -1,8 +1,7 @@
-# 👨‍💻 Alan Segundo | Senior Tech Lead & Cloud Architect
-
+# 👨‍💻 Alan Segundo | Senior DevOps | Cloud Engineer
 <div align="center">
 
-**Transforming Ideas into Scalable Cloud Solutions | Leading High-Performance Engineering Teams**
+**Transforming Ideas into Scalable Cloud Solutions | Understanding business needs is a MUST**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-jesus-segundo-nava/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan02n@gmail.com)
@@ -16,12 +15,12 @@
 
 ## 🎯 Executive Summary
 
-**Senior Tech Lead** with **6+ years** of hands-on experience architecting and operating enterprise-grade cloud platforms. Proven track record of:
-- 🚀 **Leading cross-functional teams** of 5-15 engineers across multiple time zones
-- ☁️ **Architecting mission-critical systems** serving 100K+ users on AWS & Azure
-- 📈 **Reducing infrastructure costs by 40%** through strategic cloud optimization
+**Senior DevOps** with **6+ years** of hands-on experience automating and operating enterprise-grade cloud platforms. Proven track record of:
+- 🚀 **Leading decisions** of IaC for a national company
+- ☁️ **Automating mission-critical systems** serving thousands of national store locals
+- 📈 **Reducing infrastructure costs** through strategic cloud optimization
 - 🔄 **Implementing CI/CD pipelines** that decreased deployment time from hours to minutes
-- 🌍 **Managing international customers** across 3 continents with 99.9% uptime SLA
+- 🌍 **Managing international customers** across 4 continents.
 
 ---
 
@@ -68,20 +67,14 @@
 ## 🏆 Professional Achievements & Impact
 
 ### 💼 **Leadership & Team Management**
-- 👥 **Led engineering teams** of 5-15 developers across 3 time zones
-- 📚 **Mentored 20+ junior engineers** with 90% promotion rate within 2 years
+- 👥 **I was instructor for engineering teams** of 5-15 developers/devops across 3 time zones
+- 📚 **Mentored hundreds of junior engineers** in 3 different languages
 - 🎯 **Established engineering best practices** adopted company-wide
 - 🌟 **Former AWS Authorized Instructor & Microsoft Certified Trainer**
 
-### 🚀 **Technical Accomplishments**
-- ⚡ **Reduced deployment time from 4 hours to 8 minutes** using advanced CI/CD
-- 💰 **Cut infrastructure costs by 40%** through strategic cloud optimization
-- 🔒 **Achieved 99.99% uptime** for mission-critical applications
-- 📈 **Scaled systems** to handle 10x traffic growth without performance degradation
-- 🛡️ **Implemented zero-trust security** reducing security incidents by 85%
 
 ### 🌍 **Global Impact**
-- 🌐 **International customers** across North America, Europe, and LATAM
+- 🌐 **International customers** across North America, Europe, Asia and LATAM
 - 🗣️ **Trilingual communication** (English, Portuguese, Spanish)
 - 🤝 **Cross-cultural team collaboration** spanning 15+ countries
 
@@ -104,20 +97,20 @@
 
 ```yaml
 leadership:
-  team_size: "5-15 engineers"
   management_style: "Servant leadership, data-driven decisions"
-  mentorship: "20+ engineers mentored with 90% promotion rate"
+  mentorship: "100+ engineers mentored"
   
 technical_expertise:
   architecture: "Microservices, event-driven, serverless"
   scalability: "Systems handling 100K+ concurrent users"
   cost_optimization: "40% infrastructure cost reduction"
+  automation: "CI/CD is key to decrease errors"
   
 business_impact:
   uptime: "99.99% SLA achievement"
-  deployment_speed: "4 hours → 8 minutes"
-  security_incidents: "85% reduction"
-  team_productivity: "300% improvement in delivery velocity"
+  deployment_speed: "hours → minutes"
+  security_incidents: "The fewer the incidents the best the product"
+  team_productivity: "improvement in delivery velocity"
 ```
 
 ---
