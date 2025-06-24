@@ -17,7 +17,7 @@
 
 **Senior DevOps** with **6+ years** of hands-on experience automating and operating enterprise-grade cloud platforms. Proven track record of:
 - 🚀 **Leading decisions** of IaC for a national company
-- ☁️ **Automating mission-critical systems** serving thousands of national store locals
+- ☁️ **Automating mission-critical systems** serving thousands of national bank branches
 - 📈 **Reducing infrastructure costs** through strategic cloud optimization
 - 🔄 **Implementing CI/CD pipelines** that decreased deployment time from hours to minutes
 - 🌍 **Managing international customers** across 4 continents.
